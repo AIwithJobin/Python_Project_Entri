@@ -84,3 +84,15 @@ employee_data_analysis/
 │   ├── salary_distribution_by_team.png
 │   └── age_salary_correlation.png
 └── requirements.txt
+
+
+## Requirements
+To run this project, you need the following libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+Install the dependencies using:
+```bash
+pip install -r requirements.txt
