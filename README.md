@@ -73,3 +73,14 @@ The analysis reveals several key trends:
 - **Age-Salary Relationship**: The positive correlation between age and salary aligns with typical career progression patterns.
 
 ## Project Structure
+employee_data_analysis/
+├── README.md
+├── employee_data_analysis.ipynb
+├── cleaned_employee_data.xlsx
+├── visualizations/
+│   ├── team_distribution.png
+│   ├── position_distribution.png
+│   ├── age_distribution.png
+│   ├── salary_distribution_by_team.png
+│   └── age_salary_correlation.png
+└── requirements.txt
