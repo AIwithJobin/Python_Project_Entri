@@ -1,5 +1,3 @@
-# Python_Project_Entri
-
 # Employee Data Analysis Project
 
 ## Overview
